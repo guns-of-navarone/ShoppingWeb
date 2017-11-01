@@ -1,4 +1,4 @@
-navarone com.dius.shop;
+package com.navarone.shop;
 
 /**
  * @author Craig<br>

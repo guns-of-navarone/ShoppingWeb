@@ -1,4 +1,4 @@
-navarone com.dius.util;
+package com.navarone.util;
 
 /**
  * @author Craig<br/>
